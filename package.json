@@ -1,0 +1,17 @@
+{
+  "name": "covid-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "covidapi": "^0.5.0",
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.3"
+  }
+}
